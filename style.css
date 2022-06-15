@@ -1,0 +1,198 @@
+body {
+margin:20px;
+padding:0;
+height:100%;
+background: url('images/5.jpeg');
+color:#000000;  
+text-align:center;
+font-family:sans-serif;
+font-size:16px;
+}
+
+a {
+color:54F2FF;
+text-decoration:underline;
+}
+
+a:hover {
+color:#917AFF;
+text-decoration:none;
+}
+
+ul {
+margin:0 0 0 20px;
+list-style-type:disc;
+}
+
+li {
+margin:4px 0 5px 10px;
+}
+
+
+blockquote {
+margin:1em;
+padding:.5em;
+background-color:#eeeeee;
+border-top:1px solid #cccccc;
+border-bottom:1px solid #cccccc;
+font-family:Times New Roman;
+}
+
+blockquote p {
+margin:.2em;
+}
+
+#container { 	
+margin:0 auto;
+padding:0;
+width:900px;
+text-align:left;
+background: url('images/12.jpeg');
+border:1px solid #cccccc;
+}
+
+
+
+#header {
+margin-top:0px;
+padding:0;
+height:450px;
+background: url('images/cov-ban.png');
+font-family:Bradley Hand;
+text-align:center;
+}
+
+#header h1 {
+margin:0px;
+padding:20px 0 0 20px;
+font-size:1.8em;
+letter-spacing:.1em;
+color:#ffffff;
+font-weight:lighter;
+}
+
+#header h2 {
+margin:3px;
+padding:0 0 0 20px;
+font-size:.9em;
+font-weight:lighter;
+letter-spacing:.2em;
+color:#eeeeee;
+}
+
+#leftColumn {
+float:left;
+margin:0;
+padding:0;
+width:160px;
+font-size:.9em;
+color:white;
+text-align:center;
+}
+
+
+#leftColumn p {
+padding:10px
+}
+
+
+#leftColumn h2 {
+margin:0;
+padding:10px 0 0 10px;
+font-size:1em;
+}
+
+#leftColumn ul {
+margin:0 0 0 0;
+list-style:none;
+}
+
+#leftColumn li {
+margin:4px 0 5px 10px;
+}
+
+#leftColumn li a {
+text-decoration:underline;
+font-family:Times New Roman;
+}
+
+#leftColumn p{
+font-family:Complex;
+}
+
+
+#centerColumn { 	
+margin:0 0 0 180px;
+padding:0;
+background-color:#ffffff;
+text-align:center;
+}
+
+#centerColumn p {
+padding:10px;
+text-align:center;
+font-family:Lucida Bright;
+}
+
+#centerColumn h2 {
+margin:0;
+padding:10px 0 5px 0;
+font-size:1.3em;
+letter-spacing:.1em;
+text-align:center;
+font-family:Times New Roman;
+}
+
+#centerColumn i{
+font-family:Lucida Bright;
+font-size:15px;
+}
+
+#footer {
+position:relative;
+bottom:0;
+margin:80px 0 0 0;
+padding:0;
+height:60px;
+line-height:60px;
+text-align:center;
+font-size:.6em;
+background: url('images/3.jpeg');
+border-top:1px solid #cccccc;
+}
+
+
+hr{
+border-style:none;
+border-top:10px dotted gray;
+width:500px;
+color:red;
+}
+
+
+#table-border{
+font-family:times new roman;
+border-collapse:collapse;
+width:100%;
+background:#FFFFFF;
+}
+
+#table-border td{
+border:1px solid #ddd;
+padding:10px;
+font-family:lucida handwriting;
+color:#121191;
+width:50%;
+}
+
+#table-border h1{
+margin:0;
+padding:10px 0 5px 0;
+font-size:2em;
+letter-spacing:.1em;
+text-align:center;
+font-family:Times New Roman;
+color:#000000;
+}
+
+
